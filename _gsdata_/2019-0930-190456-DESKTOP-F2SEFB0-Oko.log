@@ -1,0 +1,7 @@
+2019-09-30 19:04:58: -- Analysis Started by On File Change Incremental
+2019-09-30 19:05:00: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 22
+2019-09-30 19:05:00: Left to Right: Copy File: 1 
+2019-09-30 19:05:00: == Sync Started by On File Change Incremental
+2019-09-30 19:05:01: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (5,622)
+2019-09-30 19:05:03: == Sync Complete. Time: 00:00:03, Speed: 5.49 KB/s, OK: 1, Errors: 0
+2019-09-30 19:05:03: 

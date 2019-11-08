@@ -1,0 +1,18 @@
+2019-10-01 13:47:11: File Monitoring not available on: ftp://ftp.cluster021.hosting.ovh.net:21/www
+2019-10-01 13:47:11: Remote File System with No monitoring, disconnect
+2019-10-01 13:47:11: On File Change Monitoring started on file:///~Adrian/Desktop/HTML + CSS/train landing page
+2019-10-01 13:47:12: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-01 13:47:15: Changes: 9, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 30
+2019-10-01 13:47:15: Left to Right: Copy File: 9 
+2019-10-01 13:47:15: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-01 13:47:16: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (7,569)
+2019-10-01 13:47:17: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/dribbble.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/image/dribbble.png' (1,606)
+2019-10-01 13:47:18: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/facebook.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/image/facebook.png' (1,108)
+2019-10-01 13:47:19: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/googleplus.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/image/googleplus.png' (1,430)
+2019-10-01 13:47:20: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/right arrow.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/image/right arrow.png' (417)
+2019-10-01 13:47:21: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/tumblr.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/image/tumblr.png' (1,197)
+2019-10-01 13:47:22: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/twitter.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/image/twitter.png' (1,008)
+2019-10-01 13:47:23: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/twitter1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/image/twitter1.png' (1,186)
+2019-10-01 13:47:24: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (9,576)
+2019-10-01 13:47:25: == Sync Complete. Time: 00:00:10, Speed: 8.14 KB/s, OK: 9, Errors: 0
+2019-10-01 13:47:25: 
