@@ -288,7 +288,7 @@ h1 {
 }
 
 #content .portfolio .gallery .image a::after {
-    content: url(/www/image/arrow.png);
+    content: url("/www/image/arrow.png");
     position: absolute;
     top: 157px;
     right: 0%;
