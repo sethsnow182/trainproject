@@ -288,7 +288,7 @@ h1 {
 }
 
 #content .portfolio .gallery .image a::after {
-    content: url("/www/image/arrow.png");
+    content: url(../image/arrow.png);
     position: absolute;
     top: 157px;
     right: 0%;
@@ -327,7 +327,7 @@ h1 {
 }
 
 #content .testimonial .quote::before {
-    content: url(/www/image/triangle.png);
+    content: url(../image/triangle.png)
     position: absolute;
     right: 2%;
     bottom: -39%;
@@ -336,7 +336,7 @@ h1 {
 
 @media (max-width:702px) {
     #content .testimonial .quote::before {
-    content: url(/www/image/triangle.png);
+    content: url(../image/triangle.png);
     position: absolute;
     right: 2%;
     bottom: -35%;
@@ -345,7 +345,7 @@ h1 {
 }
 @media (max-width:398px) {
     #content .testimonial .quote::before {
-    content: url(/www/image/triangle.png);
+    content: url(../image/triangle.png);
     position: absolute;
     right: 2%;
     bottom: -25%;
@@ -355,7 +355,7 @@ h1 {
 
 
 #content .testimonial .quote blockquote::before {
-    content: url(/www/image/qoute1.png);
+    content: url(../image/qoute1.png);
     position: absolute;
     top: 23%;
     left: 2%;
@@ -372,7 +372,7 @@ h1 {
 }
 
 #content .testimonial .quote figcaption::after {
-    content: url(/www/image/quote2.png);
+    content: url(../image/quote2.png);
     position: absolute;
     right: 2%;
     bottom: 20%;
@@ -567,7 +567,7 @@ input {
 }
 
 #footer #carousel {
-    background-image: url(/www/image/tweet.png);
+    background-image: url(../image/tweet.png);
     padding: 100px;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
@@ -587,7 +587,7 @@ figure blockquote {
 }
 
 #carousel::before {
-    content: url(/www/image/twitter.png);
+    content: url(../image/twitter.png);
     position: absolute;
     top: 70px;
     left: 50%;
