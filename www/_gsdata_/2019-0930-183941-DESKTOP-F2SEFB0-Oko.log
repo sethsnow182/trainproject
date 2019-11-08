@@ -1,0 +1,24 @@
+2019-09-30 18:39:54: == Sync Started by User Command
+2019-09-30 18:39:55: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/css'
+2019-09-30 18:39:55: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/image'
+2019-09-30 18:39:56: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/css/style.css' (4,766)
+2019-09-30 18:39:57: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/aluspisan_home_page.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/aluspisan_home_page.png' (35,263)
+2019-09-30 18:39:58: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/arrow.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/arrow.png' (694)
+2019-09-30 18:40:02: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/banner.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/banner.png' (1,457,242)
+2019-09-30 18:40:03: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/Business-card.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/Business-card.png' (120,948)
+2019-09-30 18:40:04: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/controller.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/controller.png' (1,609)
+2019-09-30 18:40:05: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/img mask.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/img mask.png' (70,714)
+2019-09-30 18:40:07: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/img mask1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/img mask1.png' (124,788)
+2019-09-30 18:40:07: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/img mask2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/img mask2.png' (52,537)
+2019-09-30 18:40:09: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/img mask3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/img mask3.png' (73,897)
+2019-09-30 18:40:09: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/iPhone potrait & landscape 2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/iPhone potrait & landscape 2.png' (552)
+2019-09-30 18:40:10: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/logo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/logo.png' (4,783)
+2019-09-30 18:40:11: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/pencil with paper.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/pencil with paper.png' (1,297)
+2019-09-30 18:40:12: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/qoute1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/qoute1.png' (336)
+2019-09-30 18:40:12: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/quote2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/quote2.png' (353)
+2019-09-30 18:40:13: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/Rectangle 10 copy 6.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/Rectangle 10 copy 6.png' (218)
+2019-09-30 18:40:17: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/train.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/train.jpg' (1,332,130)
+2019-09-30 18:40:17: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/image/triangle.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/image/triangle.png' (1,000)
+2019-09-30 18:40:18: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/train landing page/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/index.html' (5,529)
+2019-09-30 18:40:20: == Sync Complete. Time: 00:00:27, Speed: 132 KB/s, OK: 21, Errors: 0
+2019-09-30 18:40:20: 
